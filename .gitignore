@@ -1,0 +1,24 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.env
+.env.local
+*.db
+data/
+
+# Node / frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+.next/
+out/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
